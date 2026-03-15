@@ -1,6 +1,4 @@
-# Hi, I'm Raynard Porter
-
-I'm a cybersecurity student building hands-on experience through home lab projects focused on IT infrastructure, security operations, networking, virtualization, and technical documentation.
+# I'm a cybersecurity student building hands-on experience through home lab projects focused on IT infrastructure, security operations, networking, virtualization, and technical documentation.
 
 ## Current Focus
 
