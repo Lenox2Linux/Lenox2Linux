@@ -2,11 +2,11 @@
 
 ## Current Focus
 
-- Cybersecurity home lab development
-- IT and infrastructure documentation
-- Security monitoring and SOC workflows
-- Linux, Proxmox, Docker, and networking
-- Applying concepts from CompTIA A+ and Network+
+- Purple team operations — INTELUX rack lab (Wazuh, pfSense, Kali, Active Directory)
+- SOC blue team skill development — detection rules, log analysis, SIEM tuning
+- Cybersecurity degree — A.A.S. Cybersecurity, WCC (4.0 GPA, Spring 2027)
+- ISC² CC exam prep — test scheduled
+- Python tooling — PhishTix phishing analyst trainer
 
 ## Featured Projects
 
